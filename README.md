@@ -24,5 +24,5 @@ python sp.py neopentane.xyz
 neopentane sp = 0.94
 ```
 # How to cite
-Please cite the following papers when using SpherPar:\
-1.
+Please cite the following paper when using SpherPar:\
+1. Sokolov A. A., Solomonov B. N., Yagofarov M. I. Influence of molecular shape on the melting thermodynamics of non-associated organic compounds //Journal of Molecular Liquids. – 2025. – V. 424. – P. 127074.
